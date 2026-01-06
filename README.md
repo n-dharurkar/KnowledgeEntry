@@ -36,6 +36,7 @@ JPA inheritance: `@Inheritance(strategy = InheritanceType.JOINED)`
 
 ## 🚀 Running the Application
 
+
 1. Clone the repository:
 
 ```bash
