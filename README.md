@@ -41,7 +41,7 @@ JPA inheritance: `@Inheritance(strategy = InheritanceType.JOINED)`
 
 ```bash
 git clone https://github.com/n-dharurkar/KnowledgeEntry.git
-cd KnowledgeEntry
+cd KnowledgeEntry/demo
 
 2. Build & Run:
 
